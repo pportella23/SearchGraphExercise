@@ -1,4 +1,4 @@
-# graphgenerator-java
+# SearchGraphExercise
 Esse repositório contém um código feito em java para solucionar um problema de caminhamento em grafos.
 
 ## Enunciado
